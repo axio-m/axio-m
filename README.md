@@ -1,1 +1,1 @@
-![hmm](desmosIsCode.png)
+<img src="desmosIsCode.png" width="400">
